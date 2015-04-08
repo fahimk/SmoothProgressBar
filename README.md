@@ -72,8 +72,8 @@ If you really want (or have) to use Eclipse, please look at the forks.
 <fr.castorflex.android.circularprogressbar.CircularProgressBar
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
+    android:layout_width="50dp"
+    android:layout_height="50dp"
     android:indeterminate="true"
     app:cpb_color="#FFee44"
     app:cpb_colors="@array/mycolors"
